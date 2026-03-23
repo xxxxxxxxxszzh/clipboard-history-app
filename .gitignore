@@ -11,3 +11,6 @@
 
 # Python cache from archived prototype
 __pycache__/
+
+# Local scratch notes
+/copy.txt
