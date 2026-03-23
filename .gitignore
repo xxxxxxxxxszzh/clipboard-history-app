@@ -1,0 +1,13 @@
+.DS_Store
+
+# Swift build artifacts
+/App/.build/
+/App/Release/
+/App/DmgRoot/
+/App/*.dmg
+
+# Archived local prototypes
+/archive/
+
+# Python cache from archived prototype
+__pycache__/
